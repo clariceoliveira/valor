@@ -1,5 +1,4 @@
 function fZero(){
-    debugger;
     var numero = document.querySelector("#valor").value;
     if(parseInt(numero)==0){
         alert("numero = a zero");
